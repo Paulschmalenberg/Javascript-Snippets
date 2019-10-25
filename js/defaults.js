@@ -1,4 +1,4 @@
 $(document).ready(function () {
     //
-    $('a').att('class','new-link')
+    $('a').addClass('new-link')
 })
